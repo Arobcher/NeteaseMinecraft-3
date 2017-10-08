@@ -1,1 +1,1 @@
-https://github.com/txgs888/NeteaseMinecraft/raw/master/xxtj.jar,,,mods/tj.jar
+https://github.com/txgs888/NeteaseMinecraft/raw/master/tongjiji.jar,,,mods/tj.jar
